@@ -14,7 +14,7 @@ metadata:
 data:
   cni-conf.json: |
     {
-      "name": "cbr0",
+      "name": "cni0",
       "type": "flannel",
       "delegate": {
         "isDefaultGateway": true
